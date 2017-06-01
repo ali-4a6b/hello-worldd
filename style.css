@@ -1,15 +1,34 @@
-#div1{
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <title>labs.css</title>
+    </head>
+
+<style>
+    #div1{
+    box-shadow: 
     width: 80%;
-    border: solid black;
-    margin-left: 10%;
-    height: 500px;
-}
-
-#div2{
-      padding-right:left: 90%;
-}   
-
-#div3{
-    padding-left: 90%;
-    
-}
+    height:80px;
+    font-size: 20px;
+    margin:auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    }
+    #div2{
+        width: 80%;
+        height: 220px;
+        font-size: 15px;
+        margin-left: 5%;
+        margin-bottom: 3%;
+    }
+    #div3{
+        width: 80%;
+        height: 150px;
+        margin-left: 3%;
+    }
+    #div4{
+        width: 80%;
+        height: 100px;
+        margin-left: 0%
+    }
+    </style>
